@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><item name="linearLayouts" type="id">linearLayout</item><item name="tableRow1" type="id">tableRow1</item><item name="tripTableView" type="id">tripTableView</item><item name="backgroundLayout" type="id">backgroundLayout</item></resources>
